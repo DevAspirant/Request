@@ -3,7 +3,7 @@ this is for request
 
 يستخدم الامر &#x202b; request  لجلب معلومات سواء ب post or get فهو لا يفرق بيناتهم 
 
-طريقة استخدام الامر 
+&#x202b; طريقة استخدام الامر 
 
 ```
  if(count($_REQUEST)){
